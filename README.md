@@ -11,7 +11,7 @@ Assignments in this repository are all about the implementation of algorithm to 
 | Assignment 3  | Collaborating Filtering  | Spark  | LSH, User/Item-based CF  |
 | Assignment 4  | Community Detection  | Spark | Girvan-Newman  |
 | Assignment 5  | Clustering  | Spark  | BFR algorithm  |
-| Assignment 6  | Streaming Data Algorithms  | \  | Bloom Filtering, Flajolet Martin, Fixed Size Sampling  |
+| Assignment 6  | Streaming Data Algorithms  | Spark  | Bloom Filtering, Flajolet Martin, Fixed Size Sampling  |
 
 ## Programming Environment
 Python 3.6, Scala 2.11, and Spark 2.3.2
