@@ -14,7 +14,7 @@ Assignments in this repository are all about the implementation of algorithm to 
 | Assignment 6  | Streaming Data Algorithms  | Spark  | Bloom Filtering, Flajolet Martin, Fixed Size Sampling  |
 
 ## Programming Environment
-Python 3.6, Scala 2.11, and Spark 2.3.2
+Python 3.6 and Spark 2.3.2.
 
 ## How To Use
 You can find assignments description and source code in corressponding assighment folder
