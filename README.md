@@ -1,4 +1,4 @@
-# Mining_of_Massive_Datasets
+# Mining of Massive Datasets
 The implementation of data mining algorithms
 
 ## Description:
